@@ -54,16 +54,7 @@ npm start
 
 ---
 
-## Environment Variables
 
-See `.env.example`:
-
-| Variable | Default | Description |
-|---|---|---|
-| `REACT_APP_BINANCE_WS_URL` | `wss://stream.binance.com:9443/ws` | Binance WebSocket endpoint |
-| `REACT_APP_COINGECKO_API_URL` | `https://api.coingecko.com/api/v3` | CoinGecko REST API base URL |
-
----
 
 ## Architecture
 
